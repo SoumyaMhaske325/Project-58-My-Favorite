@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+}
+#image-soumya{
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+img {
+    margin-bottom: 50px;
+}
+
+#dance {
+    background: linear-gradient(#cafc00 0%, #0058fc)
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.links {
+    float: left;
+    color: white;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: cursive;
+    font-size: 20px;
+}
